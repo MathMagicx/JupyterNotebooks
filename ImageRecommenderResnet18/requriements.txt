@@ -1,0 +1,14 @@
+cycler==0.10.0
+future==0.18.2
+kiwisolver==1.1.0
+matplotlib==3.0.3
+numpy==1.18.5
+pandas==0.25.3
+Pillow==7.2.0
+pyparsing==2.4.7
+python-dateutil==2.8.1
+pytz==2020.1
+six==1.15.0
+torch==1.5.1+cpu
+torchvision==0.6.1+cpu
+tqdm==4.47.0
